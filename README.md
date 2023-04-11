@@ -1,6 +1,6 @@
 # Entertainment generator
 
-### An entertainment generator based on the Bored API. Entertainment can be generated randomly, or you can narrow your search using criteria such as number of participants, price, availability, etc.
+An entertainment generator based on the Bored API. Entertainment can be generated randomly, or you can narrow your search using criteria such as number of participants, price, availability, etc.
 
 # Use case
 
